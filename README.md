@@ -61,11 +61,11 @@ API modulaires (Go/Node/Quarkus) • Microservices asynchrones (Kafka) • Front
 <p align="center"><i>"Un bon dev connaît ses outils. Un dev d'exception comprend les systèmes, les données, et l'impact."</i></p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&cacheSeconds=3600" height="180" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&cacheSeconds=3600&show_rank=true" height="180" />
   &nbsp;&nbsp;
     <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&cacheSeconds=3600&show_rank=true" height="180" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&cacheSeconds=3600" height="180" />
 </p>
