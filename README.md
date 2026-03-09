@@ -67,5 +67,5 @@ API modulaires (Go/Node/Quarkus) • Microservices asynchrones (Kafka) • Front
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&cacheSeconds=3600" height="180" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&cacheSeconds=3600&show_rank=true" height="180" />
 </p>
