@@ -61,8 +61,7 @@ API modulaires (Go/Node/Quarkus) • Microservices asynchrones (Kafka) • Front
 <p align="center"><i>"Un bon dev connaît ses outils. Un dev d'exception comprend les systèmes, les données, et l'impact."</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-&nbsp;&nbsp;
+  <img src="https://stats.quine.sh/user/github?username=Angislad20&theme=dark" height="180" />
   <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight" height="180" />
 </p>
 
