@@ -8,12 +8,12 @@
 
 ---
 
-<h2 align="center">👋 Qui suis-je ?</h2>
+<h2 align="center">👋 Qui suis-je ?</h2>
 
 <p align="center">
 Je suis <b>Christ Koffi</b>.<br/>
-Développeur fullstack passionné par les architectures modernes, je construis des applications <b>scalables</b> et <b>modulaires</b>, et je me spécialise de plus en plus dans la <b>data science</b> et <b>l’ingénierie des données</b>.<br/><br/>
-De l’API robuste au frontend dynamique, en passant par le traitement de données et les pipelines, je cherche toujours à transformer le code en valeur concrète.
+Développeur fullstack passionné par les architectures modernes, je construis des applications <b>scalables</b> et <b>modulaires</b>, et je me spécialise de plus en plus dans la <b>data science</b> et <b>l'ingénierie des données</b>.<br/><br/>
+De l'API robuste au frontend dynamique, en passant par le traitement de données et les pipelines, je cherche toujours à transformer le code en valeur concrète.
 </p>
 
 ---
@@ -21,12 +21,12 @@ De l’API robuste au frontend dynamique, en passant par le traitement de donné
 <h2 align="center">🛠️ Stack</h2>
 
 <p align="center">
-<b>Backend :</b> Go, Java (Quarkus), Node.js <br/>
-<b>Frontend :</b> Angular, React Native <br/>
-<b>Data :</b> Python (pandas, NumPy, Matplotlib), Jupyter <br/>
-<b>Base de données :</b> PostgreSQL, Supabase <br/>
-<b>Messaging :</b> Kafka <br/>
-<b>DevOps :</b> Docker, GitHub Actions, Git, CI/CD <br/>
+<b>Backend :</b> Go, Java (Quarkus), Node.js <br/>
+<b>Frontend :</b> Angular, React Native <br/>
+<b>Data :</b> Python (pandas, NumPy, Matplotlib), Jupyter <br/>
+<b>Base de données :</b> PostgreSQL, Supabase <br/>
+<b>Messaging :</b> Kafka <br/>
+<b>DevOps :</b> Docker, GitHub Actions, Git, CI/CD <br/>
 </p>
 
 ---
@@ -34,8 +34,8 @@ De l’API robuste au frontend dynamique, en passant par le traitement de donné
 <h2 align="center">🎯 Objectif</h2>
 
 <p align="center">
-Transition vers la data science : systèmes de recommandation, big data, modèles prédictifs.<br/>
-Je m’efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b>machine learning</b> et les <b>pipelines de données</b> modernes.
+Transition vers la data science : systèmes de recommandation, big data, modèles prédictifs.<br/>
+Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b>machine learning</b> et les <b>pipelines de données</b> modernes.
 </p>
 
 ---
@@ -58,9 +58,14 @@ API modulaires (Go/Node/Quarkus) • Microservices asynchrones (Kafka) • Front
 
 ---
 
-<p align="center"><i>"Un bon dev connaît ses outils. Un dev d’exception comprend les systèmes, les données, et l’impact."</i></p>
+<p align="center"><i>"Un bon dev connaît ses outils. Un dev d'exception comprend les systèmes, les données, et l'impact."</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight" alt="Angislad20's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8" height="180" />
 </p>
