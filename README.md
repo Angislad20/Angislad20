@@ -44,20 +44,6 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 
 ---
 
-<h2 align="center">🚀 Projets</h2>
-
-<p align="center">
-  <a href="https://github.com/Angislad20/JIREH.">
-    <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api/pin/?username=Angislad20&repo=JIREH%2E&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Angislad20/Premier-League-2024-25-EDA">
-    <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api/pin/?username=Angislad20&repo=Premier-League-2024-25-EDA&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 <h2 align="center">📈 Activité</h2>
 
 <p align="center">
