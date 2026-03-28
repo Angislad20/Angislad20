@@ -44,24 +44,16 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 
 ---
 
-<h2 align="center">📈 Activité</h2>
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angislad20&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">📊 Stats GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="200" width="420" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight&hide_border=true" height="180" />
+  <!-- Rank + Stats (alternative fiable) -->
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&cache_seconds=3600" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="180" />
+  <!-- Streak alternative -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angislad20&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
