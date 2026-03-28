@@ -47,13 +47,12 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 <h2 align="center">🚀 Projets</h2>
 
 <p align="center">
-  <!-- 🔁 Remplace TON-REPO-1, TON-REPO-2 par tes vrais noms de dépôts -->
   <a href="https://github.com/Angislad20/JIREH.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angislad20&repo=JIREH.&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api/pin/?username=Angislad20&repo=JIREH%2E&theme=tokyonight&hide_border=true" />
   </a>
   &nbsp;
-  <a href="https://github.com/Angislad20/Premier-League-2024-25-EDA.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angislad20&repo=Premier-League-2024-25-EDA&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Angislad20/Premier-League-2024-25-EDA">
+    <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api/pin/?username=Angislad20&repo=Premier-League-2024-25-EDA&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -70,13 +69,13 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 <h2 align="center">📊 Stats GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800&rank_icon=github" height="200" width="420" />
+  <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="200" width="420" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-h4ajhqxlx-angislad20s-projects.vercel.app/api/top-langs/?username=Angislad20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="180" />
 </p>
 
 ---
@@ -84,7 +83,6 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 <h2 align="center">🤝 Contact</h2>
 
 <p align="center">
-  <!-- ⚠️ J'ai harmonisé les deux emails sur christkoffi275@gmail.com — vérifie que c'est bien le bon -->
   <a href="mailto:christkoffi275@gmail.com">
     <img src="https://img.shields.io/badge/e--mail-christkoffi275@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
