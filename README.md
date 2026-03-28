@@ -48,12 +48,12 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 
 <p align="center">
   <!-- 🔁 Remplace TON-REPO-1, TON-REPO-2 par tes vrais noms de dépôts -->
-  <a href="https://github.com/Angislad20/TON-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angislad20&repo=TON-REPO-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Angislad20/JIREH.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angislad20&repo=JIREH.&theme=tokyonight&hide_border=true" />
   </a>
   &nbsp;
-  <a href="https://github.com/Angislad20/TON-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angislad20&repo=TON-REPO-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Angislad20/Premier-League-2024-25-EDA.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angislad20&repo=Premier-League-2024-25-EDA&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b
 <h2 align="center">📊 Stats GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" height="200" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800&rank_icon=github" height="200" width="420" />
   &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=Angislad20&theme=tokyonight&hide_border=true" height="180" />
 </p>
