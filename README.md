@@ -1,77 +1,92 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Angislad20&color=blueviolet&style=flat-square&label=Visiteurs" />
+# Hi, I'm Christ Koffi! 👋
+
+I'm a **Data Scientist** with a software engineering background, currently pursuing a Master's degree in **Big Data**.
+
+I enjoy working at the intersection of **data, machine learning and software engineering**. I'm interested in understanding problems through data, building predictive models, and turning ideas into reliable software.
+
+## 🚀 About Me
+
+* 🎓 Master's student in **Big Data**
+* 📊 Focused on **Data Science & Machine Learning**
+* 🧠 Deepening my knowledge of **statistics, ML and Big Data**
+* ⚙️ **Go developer** with a strong software engineering background
+* 🤝 Interested in **open source, collaboration and building useful things**
+
+## 🛠️ Tech Stack
+
+### Data & Machine Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&multiline=true&width=900&lines=Salut%2C+moi+c'est+Angislad20+%F0%9F%91%8B;Fullstack+Dev+%26+Futur+Data+Scientist;Architectures+Modernes+%E2%80%A2+C%C3%B4te+d'Ivoire" alt="Typing Animated Banner" />
+`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Jupyter`
+
+### Software Engineering
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="52" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="42" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,nodejs,angular,react,python,docker,kafka,postgresql,supabase,githubactions,git" />
+`Go` · `Java / Quarkus` · `Node.js` · `Angular` · `React Native`
+
+### Infrastructure & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="42" alt="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="42" alt="Supabase"/>
 </p>
+
+`Docker` · `Kafka` · `PostgreSQL` · `Supabase` · `Git` · `GitHub Actions` · `CI/CD`
+
+## 📊 Data Science Projects
+
+### Churn Prediction
+
+A customer churn project focused on **exploratory analysis, feature understanding and predictive modeling**.
+
+`Python` · `Pandas` · `Scikit-learn`
+
+→ [View project](#)
+
+### Insurance Cost Prediction
+
+A regression project exploring how customer characteristics relate to **medical insurance charges**.
+
+`Python` · `Pandas` · `Scikit-learn` · `Statistics`
+
+→ [View project](#)
+
+## 🌱 Currently Exploring
+
+**Machine Learning · Statistics · Big Data · Data Engineering**
+
+## 📬 Get in Touch
+
+* Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christ-koffi-599726237/)
+* Follow me on [X](https://x.com/angi_slow13)
+* You can also reach me directly by [email](mailto:christkoffi275@gmail.com)
+
+Thanks for stopping by! I'm always happy to connect with people who are curious about technology, data, machine learning, or simply enjoy building things together. 🚀
 
 ---
 
-<h2 align="center">👋 Qui suis-je ?</h2>
+## 📈 GitHub Stats
 
 <p align="center">
-Je suis <b>Christ Koffi</b>.<br/>
-Développeur fullstack passionné par les architectures modernes, je construis des applications <b>scalables</b> et <b>modulaires</b>, et je me spécialise de plus en plus dans la <b>data science</b> et <b>l'ingénierie des données</b>.<br/><br/>
-De l'API robuste au frontend dynamique, en passant par le traitement de données et les pipelines, je cherche toujours à transformer le code en valeur concrète.
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/?username=Angislad20&show_icons=true&rank_icon=default&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
-
----
-
-<h2 align="center">🛠️ Stack</h2>
-
-<p align="center">
-<b>Backend :</b> Go, Java (Quarkus), Node.js <br/>
-<b>Frontend :</b> Angular, React Native <br/>
-<b>Data :</b> Python (pandas, NumPy, Matplotlib), Jupyter <br/>
-<b>Base de données :</b> PostgreSQL, Supabase <br/>
-<b>Messaging :</b> Kafka <br/>
-<b>DevOps :</b> Docker, GitHub Actions, Git, CI/CD <br/>
-</p>
-
----
-
-<h2 align="center">🎯 Objectif</h2>
-
-<p align="center">
-Transition vers la data science : systèmes de recommandation, big data, modèles prédictifs.<br/>
-Je m'efforce de maîtriser la <b>programmation scientifique</b>, les bases du <b>machine learning</b> et les <b>pipelines de données</b> modernes.
-</p>
-
----
-
-<h2 align="center">📊 GitHub</h2>
-
-<p align="center">
-  <!-- Rank + Stats (alternative fiable) -->
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&cache_seconds=3600" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Streak alternative -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angislad20&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-<h2 align="center">🤝 Contact</h2>
-
-<p align="center">
-  <a href="mailto:christkoffi275@gmail.com">
-    <img src="https://img.shields.io/badge/e--mail-christkoffi275@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/christ-koffi-599726237/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/DjandjouStack">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><i>"Un bon dev connaît ses outils. Un dev d'exception comprend les systèmes, les données, et l'impact."</i></p>
