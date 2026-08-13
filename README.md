@@ -58,7 +58,7 @@ A customer churn project focused on **exploratory analysis, feature understandin
 
 `Python` · `Pandas` · `Scikit-learn`
 
-→ [View project](#)
+→ [View project](https://github.com/Angislad20/churn-prediction)
 
 ### Insurance Cost Prediction
 
@@ -66,7 +66,7 @@ A regression project exploring how customer characteristics relate to **medical 
 
 `Python` · `Pandas` · `Scikit-learn` · `Statistics`
 
-→ [View project](#)
+→ [View project](https://github.com/Angislad20/insurance_forescast)
 
 ## 🌱 Currently Exploring
 
