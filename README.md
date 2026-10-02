@@ -4,7 +4,7 @@ I'm a **Data Scientist** with a software engineering background, interested in t
 
 I enjoy understanding how things work, experimenting with data and models, and building software around the problems I find interesting. **Go** is one of my main tools on the software side, while **Python** is at the center of my work with data.
 
-![My Stats](https://github-readme-stats-fast.vercel.app/api/?username=Angislad20\&show_icons=true\&rank_icon=default\&theme=tokyonight\&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=Angislad20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
