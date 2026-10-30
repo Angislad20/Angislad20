@@ -16,7 +16,7 @@ I enjoy working with data, building models, exploring codebases and contributing
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,java,nodejs,postgres,scikitlearn,kafka,docker,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,rust,typescript,java,nodejs,postgres,scikitlearn,kafka,docker,nix,git,githubactions)](https://skillicons.dev)
 
 ## 🔬 What I'm Working On
 
