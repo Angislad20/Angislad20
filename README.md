@@ -1,18 +1,18 @@
 # Hi, I'm Christ Koffi! 👋
 
-I'm a **Data Scientist** with a software engineering background, interested in the intersection of **data, machine learning and software development**.
+I'm a **Data Scientist** with a software engineering background, curious about how things work and always eager to explore new technologies.
 
-I enjoy understanding how things work, experimenting with data and models, and building software around the problems I find interesting. **Go** is one of my main tools on the software side, while **Python** is at the center of my work with data.
+I enjoy working with data, building models, exploring codebases and contributing to projects that catch my interest. I'm not tied to a particular language or ecosystem: I believe that understanding the fundamentals is what makes it possible to learn, adapt and build with different technologies.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Angislad20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-* 📊 Building my skills in **Data Science, Machine Learning and Statistics**
-* 🐹 **Go developer** with a background in full-stack software engineering
-* 🧮 Interested in **data analysis, predictive modeling and data-driven systems**
-* 🏗️ Exploring **Big Data and data engineering**
-* 🤝 I enjoy **collaborating, learning from others and contributing to open source**
+- 📊 Exploring **Data Science, Machine Learning and Statistics**
+- 🔍 Always hunting for interesting **open-source projects** to explore and contribute to
+- 🧩 I enjoy understanding systems, solving problems and learning new technologies
+- ⚙️ Background in **software engineering**, from backend development to data-driven applications
+- 🤝 Open to collaboration, knowledge sharing and building useful things
 
 ## 🛠️ Tech Stack
 
@@ -20,18 +20,18 @@ I enjoy understanding how things work, experimenting with data and models, and b
 
 ## 🔬 What I'm Working On
 
-I'm currently putting more of my time into **Data Science and Machine Learning**, while continuing to build software and strengthen my engineering foundations.
+Currently exploring the intersection of **Data Science, Machine Learning and Software Engineering**.
 
-My current interests include:
+I'm also spending time discovering open-source codebases, understanding how projects are built and finding opportunities to contribute.
 
-**Data Analysis · Statistics · Predictive Modeling · Machine Learning · Big Data**
+**Data Analysis · Predictive Modeling · Machine Learning · Big Data · Open Source**
 
 ## 📬 Get in Touch
 
-I'm always open to **interesting projects, technical discussions and collaborations**.
+Always happy to connect with people who enjoy technology, sharing ideas and building things together.
 
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/christ-koffi-599726237/)
-* Follow me on [X](https://x.com/angi_slow13)
-* Reach me by [email](mailto:christkoffi275@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/christ-koffi-599726237/)
+- [X](https://x.com/angi_slow13)
+- [Email](mailto:christkoffi275@gmail.com)
 
-Thanks for stopping by! Let's connect and build something interesting together. 🚀
+*Thanks for stopping by. Keep exploring, keep building! 🚀*
