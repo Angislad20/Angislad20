@@ -4,7 +4,7 @@ I'm a **Data Scientist** with a software engineering background, curious about h
 
 I enjoy working with data, building models, exploring codebases and contributing to projects that catch my interest. I'm not tied to a particular language or ecosystem: I believe that understanding the fundamentals is what makes it possible to learn, adapt and build with different technologies.
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Angislad20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&bg_color=151515&title_color=FF9F43&icon_color=F97316&text_color=E5E5E5&border_color=303030&cacheSeconds=3600)
 
 ## 🚀 About Me
 
