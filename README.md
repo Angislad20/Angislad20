@@ -1,30 +1,31 @@
 # Hi, I'm Christ Koffi! 👋
 
-I'm a **Data Scientist** with a software engineering background, curious about how things work and always eager to explore new technologies.
+I'm a **Data Scientist** with a software engineering background and a strong passion for building things with **Go**.
 
-I enjoy working with data, building models, exploring codebases and contributing to projects that catch my interest. I'm not tied to a particular language or ecosystem: I believe that understanding the fundamentals is what makes it possible to learn, adapt and build with different technologies.
+I enjoy working with data, building predictive models, exploring systems and contributing to open-source projects. Go holds a special place in my toolkit, particularly for its simplicity, efficiency and approach to software engineering. I'm also curious about other technologies and enjoy exploring different ecosystems.
 
 ![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Angislad20&show_icons=true&bg_color=151515&title_color=FF9F43&icon_color=F97316&text_color=E5E5E5&border_color=303030&cacheSeconds=3600)
 
 ## 🚀 About Me
 
 - 📊 Exploring **Data Science, Machine Learning and Statistics**
-- 🔍 Always hunting for interesting **open-source projects** to explore and contribute to
-- 🧩 I enjoy understanding systems, solving problems and learning new technologies
-- ⚙️ Background in **software engineering**, from backend development to data-driven applications
-- 🤝 Open to collaboration, knowledge sharing and building useful things
+- 🐹 Passionate about **Go** and building efficient, reliable software
+- 🔍 Exploring and contributing to interesting **open-source projects**
+- 🧩 Interested in understanding systems, solving problems and exploring how things work
+- ⚙️ Combining software engineering and data science to build useful solutions
+- 🤝 Open to collaboration, knowledge sharing and building things together
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,rust,typescript,java,nodejs,postgres,scikitlearn,kafka,docker,nix,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,go,rust,zig,typescript,nodejs,astro,svelte,postgres,kafka,docker,nix,git,githubactions)](https://skillicons.dev)
 
 ## 🔬 What I'm Working On
 
 Currently exploring the intersection of **Data Science, Machine Learning and Software Engineering**.
 
-I'm also spending time discovering open-source codebases, understanding how projects are built and finding opportunities to contribute.
+I'm particularly interested in building data-driven solutions, developing with Go and discovering open-source projects worth contributing to.
 
-**Data Analysis · Predictive Modeling · Machine Learning · Big Data · Open Source**
+**Data Analysis · Predictive Modeling · Machine Learning · Go Development · Big Data · Open Source**
 
 ## 📬 Get in Touch
 
